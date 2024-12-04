@@ -31,6 +31,7 @@ import fortmatic from "../assets/wallets/fortmatic.png";
 import foxwallet from "../assets/wallets/foxwallet.png";
 import frontier from "../assets/wallets/frontier-logo.png";
 import gem from "../assets/wallets/gem.png";
+import ghost from "../assets/wallets/ghost-wallet.png";
 import guarda from "../assets/wallets/guarda.jpg";
 import haloWallet from "../assets/wallets/halo-wallet-logo.png";
 import hyperpay from "../assets/wallets/hyperpay.png";
@@ -50,6 +51,7 @@ import rise from "../assets/wallets/rise.png";
 import robinhood from "../assets/wallets/robinhood.png";
 import runesbridge from "../assets/wallets/runesbridge.png";
 import simplehold from "../assets/wallets/simplehold.png";
+import telegram from "../assets/wallets/telegram-wallet.jpg";
 import torus from "../assets/wallets/torus.png";
 import tribes from "../assets/wallets/tribes.png";
 import trubit from "../assets/wallets/trubit.png";
@@ -217,6 +219,10 @@ export const moreWallets = [
     icon: gem,
   },
   {
+    name: "ghost",
+    icon: ghost,
+  },
+  {
     name: "guarda",
     icon: guarda,
   },
@@ -299,6 +305,10 @@ export const moreWallets = [
   {
     name: "simplehold",
     icon: simplehold,
+  },
+  {
+    name: "telegram",
+    icon: telegram,
   },
   {
     name: "torus",

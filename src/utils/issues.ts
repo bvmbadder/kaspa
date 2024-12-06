@@ -25,6 +25,11 @@ export const issueItems = [
     image: Recovery,
   },
   {
+    text: "Purchase/Buy",
+    image: Recovery,
+  },
+  
+  {
     text: "NFT mint",
     image: Recovery,
   },

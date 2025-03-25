@@ -55,6 +55,7 @@ import telegram from "../assets/wallets/telegram-wallet.jpg";
 import torus from "../assets/wallets/torus.png";
 import tribes from "../assets/wallets/tribes.png";
 import trubit from "../assets/wallets/trubit.png";
+import trustwallet from "../assets/wallets/trustwallet.webp";
 import unisat from "../assets/wallets/unisat.png";
 import uniswap from "../assets/wallets/uniswap.jpg";
 import uxuy from "../assets/wallets/uxuy.png";
@@ -321,6 +322,10 @@ export const moreWallets = [
   {
     name: "trubit",
     icon: trubit,
+  },
+  {
+    name: "Trust Wallet",
+    icon: trustwallet,
   },
   {
     name: "unisat",
